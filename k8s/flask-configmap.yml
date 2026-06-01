@@ -7,3 +7,4 @@ data:
   db_host: "mysql"
   db_name: "flaskdb"
   app_env: "production"
+  api_version: "v1"
